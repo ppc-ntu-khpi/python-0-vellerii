@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9471858&assignment_repo_type=AssignmentRepo)
 # Python-Exercises
 **Вправи з  Python для першого семестру з ООП**. Кілька блокнотів [Jupiter](https://jupyter.org/), які містять завдання для студентів [нашого коледжу](http://polytechnic.poltava.ua) (третій курс спеціальності "Розробка ПЗ"). Зараз тут лише три міні-практичних, але постувово репозиторій буде заповнюватись.
 
